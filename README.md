@@ -71,7 +71,7 @@ covid-dashboard/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/covid-dashboard.git
+git clone https://github.com/KelvenPer/Python-e-Machine-Learning
 cd covid-dashboard
 ```
 
@@ -131,7 +131,7 @@ streamlit run app.py
 **Kelven Silva**
 
 * Desenvolvedor Python e Analista de Dados
-* LinkedIn: [linkedin.com/in/kelvensilva](https://linkedin.com/in/kelvensilva)
+* LinkedIn: [linkedin.com/in/kelvensilva](https://www.linkedin.com/in/kelven-silva-83677414b)
 
 ---
 
